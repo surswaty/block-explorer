@@ -12,7 +12,7 @@ const Footer = () => {
         <div className='h-[1px] bg-black bg-opacity-25 my-3'/>
         <div className="text-sm">
           <div className="inline-block">Etherscan © 2023 (goerli)</div>
-          <div>Donations <a href='' className="text-blue">0x71c765...d8976f 💗</a></div>
+          <div>Donations: <a href='' className="text-blue">0x71c765...d8976f 💗</a></div>
         </div>
       </div>
     </div>
