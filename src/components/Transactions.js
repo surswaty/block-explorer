@@ -8,7 +8,7 @@ const Transactions = () => {
     <div className="">
       <div>
         <div className="text-blue text-sm">
-        <div className="text-black inline-block">TX#</div>
+          <div className="text-black inline-block">TX#</div>
           <a href='' className="ml-1">0x04080540ad70...</a>
           <span className="text-black opacity-50 ml-1">45 sec ago</span>
         </div>
