@@ -36,7 +36,7 @@ const Blocks = () => {
   }
 
   return (
-    <div className="bg-light_grey h-[638px] mx-4 mt-[-65px] lg:mt-0 flex flex-col lg:justify-between rounded-lg border-[1px] border-black border-opacity-25 lg:w-1/2">
+    <div className="bg-light_grey h-[638px] mx-1 sm:mx-4 mt-[-65px] lg:mt-0 flex flex-col lg:justify-between rounded-lg border-[1px] border-black border-opacity-25 lg:w-1/2">
       <div className="h-9 rounded-lg">
         <h2 className='p-2 text-lg'>Latest Blocks</h2>
         <div className='h-[1px] bg-black bg-opacity-25' />

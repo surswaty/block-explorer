@@ -11,7 +11,7 @@ const App = () => {
     <div>
       <Nav />
       <Header />
-      <div className="sm:px-10 lg:flex mt-[-65px]">
+      <div className="lg:flex mt-[-65px]">
         <Blocks />
         <Transactions />
       </div>

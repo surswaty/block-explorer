@@ -36,7 +36,7 @@ const Transactions = () => {
   }
 
   return (
-    <div className="bg-light_grey h-[638px] mx-4 mt-6 flex flex-col justify-between rounded-lg border-[1px] border-black border-opacity-25 lg:mt-0 lg:w-1/2">
+    <div className="bg-light_grey h-[638px] mx-1 sm:mx-4 mt-6 flex flex-col justify-between rounded-lg border-[1px] border-black border-opacity-25 lg:mt-0 lg:w-1/2">
       <div className="h-9 rounded-lg">
         <h2 className='p-2 text-lg'>Latest Transactions</h2>
         <div className='h-[1px] bg-black bg-opacity-25' />
