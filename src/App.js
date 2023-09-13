@@ -11,8 +11,10 @@ const App = () => {
     <div>
       <Nav />
       <Header />
-      <Blocks />
-      <Transactions />
+      <div className="sm:px-10 lg:flex mt-[-65px]">
+        <Blocks />
+        <Transactions />
+      </div>
       <Footer />
     </div>
   )
